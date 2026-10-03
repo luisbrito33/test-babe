@@ -1,0 +1,13 @@
+{
+  "app_name": "AUREUS",
+  "environment": "production",
+  "api_endpoint": "https://api.aureus.io/v1",
+  "db_host": "db.aureus.internal",
+  "db_user": "aureus_app",
+  "db_password": "S3cr3t_Pr0d_2026!",
+  "debug": false,
+  "feature_flags": {
+    "instant_transfers": true,
+    "crypto_support": false
+  }
+}
