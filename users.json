@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": 1, "name": "Admin", "email": "admin@aureus.io", "role": "admin" },
+    { "id": 2, "name": "Operations", "email": "ops@aureus.io", "role": "operator" },
+    { "id": 3, "name": "Finance", "email": "finance@aureus.io", "role": "analyst" }
+  ]
+}
